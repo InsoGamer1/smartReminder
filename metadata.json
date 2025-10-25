@@ -1,0 +1,8 @@
+{
+  "name": "Smart Reminder",
+  "description": "An intelligent reminder application with time-based, location-based, and AI-powered reminders.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
